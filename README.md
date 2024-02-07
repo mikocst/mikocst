@@ -1,4 +1,4 @@
-👋 Hi, I'm Miko.
+👋 Hi, I'm Miko.<br/>
 I'm a freelance web designer and web developer who owns a web studio, No.132 Design, based in Chicago, Illinois. I love to transform pixels into custom interactive, immersive websites!
 
 👾 Stack:
@@ -8,10 +8,10 @@ I'm a freelance web designer and web developer who owns a web studio, No.132 Des
   - React
   - Next.JS
 
-Connect with me!
-Portfolio: https://www.no132design.com/
-Youtube: https://www.youtube.com/channel/UCjJc9uG8uV6R6tnATICFpIg
-X: https://twitter.com/no_132design
+Connect with me! <br/>
+Portfolio: https://www.no132design.com/<br/>
+Youtube: https://www.youtube.com/channel/UCjJc9uG8uV6R6tnATICFpIg<br/>
+X: https://twitter.com/no_132design<br/>
 
 <!---
 mikocst/mikocst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
