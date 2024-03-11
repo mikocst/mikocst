@@ -1,12 +1,13 @@
 👋 Hi, I'm Miko.<br/>
-I'm a freelance web designer and web developer who owns a web studio, No.132 Design, based in Chicago, Illinois. I love to transform pixels into custom interactive, immersive websites!
+I'm a freelance web designer and web developer who owns a web studio, No.132 Design, based in Chicago, Illinois. I transform pixels into custom interactive, immersive websites!
 
 👾 Stack:
   - Figma
   - Webflow
   - GSAP
   - React
-  - Next.JS
+  - Remix.run
+  - 3JS
 
 Connect with me! <br/>
 Portfolio: https://www.no132design.com/<br/>
