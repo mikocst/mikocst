@@ -6,7 +6,6 @@ I'm a freelance web designer and web developer who owns a web studio, No.132 Des
   - Webflow
   - GSAP
   - React
-  - Remix.run
   - 3JS
 
 Connect with me! <br/>
