@@ -8,7 +8,6 @@ By the end of the year (2024), I hope to be making web applications using Astro 
   - Figma
   - Webflow
   - GSAP
-  - React
   - 3JS
 
 Connect with me! <br/>
