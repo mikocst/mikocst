@@ -1,8 +1,7 @@
 👋 Hi, I'm Miko.<br/>
 I'm a freelance web designer and web developer who owns a web studio, No.132 Design, based in Chicago, Illinois. </br>
 My goal is to transform the web one pixel at a time and create custom, immersive experiences. </br>
-By the end of the year (2024), I hope to be making web applications using Astro and include </br>
-3D web site experiences.
+I'm working my way towards being a creative front-end developer. 
 
 👾 Stack:
   - Figma
