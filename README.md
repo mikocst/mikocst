@@ -1,5 +1,5 @@
 👋 Hi, I'm Miko.<br/>
-I'm a freelance web designer and web developer who owns a web studio, No.132 Design, based in Chicago, Illinois. </br>
+I'm a UX Designer and Creative Front-End Developer based in Chicago, Illinois. </br>
 My goal is to transform the web one pixel at a time and create custom, immersive experiences. </br>
 I'm working my way towards being a creative front-end developer. 
 
