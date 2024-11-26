@@ -7,7 +7,8 @@ I love creating unforgettable experiences. </br>
   - Astro
   - GSAP
   - 3JS
-  - Blender
+  - React
+  - Framer Motion
 
 Connect with me! <br/>
 Portfolio: https://www.no132design.com/<br/>
