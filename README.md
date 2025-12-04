@@ -8,10 +8,9 @@ I love creating unforgettable experiences. </br>
   - GSAP
   - 3JS
   - React
-  - Framer Motion
+  - Motion.Dev
 
 Connect with me! <br/>
-Portfolio: https://www.no132design.com/<br/>
 Youtube: https://www.youtube.com/channel/UCjJc9uG8uV6R6tnATICFpIg<br/>
 X: https://twitter.com/mikocst <br/>
 
