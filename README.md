@@ -5,7 +5,7 @@ I love creating unforgettable experiences. </br>
 👾 Stack:
   - Figma
   - Astro
-  - GSAP
+  - Tailwind
   - 3JS
   - React
   - Motion.Dev
